@@ -1,13 +1,13 @@
-[Study title]
+[Characterization of DM in OHDSI-AP network]
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
-- Analytics use case(s): **-**
-- Study type: **-**
-- Tags: **-**
-- Study lead: **-**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
+- Analytics use case(s): **Characterization**
+- Study type: **Clinical Application**
+- Tags: **OHDSI-AP**
+- Study lead: **OHDSI-AP**
+- Study lead forums tag: **[SCYou](https://forums.ohdsi.org/u/SCYou)**
 - Study start date: **-**
 - Study end date: **-**
 - Protocol: **-**
