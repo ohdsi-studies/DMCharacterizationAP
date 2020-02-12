@@ -1,4 +1,4 @@
-[Characterization of DM in OHDSI-AP network]
+Characterization of DM in the OHDSI-AP network
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
@@ -14,6 +14,4 @@
 - Publications: **-**
 - Results explorer: **-**
 
-[Description (single paragraph)]
-
-[You can add other text at this point]
+Characterizing Type 2 Diabets Melitus and its treatments in the OHDSI-AP (Asia-Pacific) network.
